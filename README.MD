@@ -53,7 +53,5 @@ $ echo -n IyEvYmluL2Jhc2gKCmNvbnRhaW5lckxpc3Q9YHN1ZG8gZG9ja2VyIHBzIC1hIHwgZ3JlcC
 $ chmod +x ./cleanDocker.sh
 $ sudo ./cleanDocker.sh
 ```
-
 # Demo
-[<img src="https://img.youtube.com/vi/kCgPA-NWSTA/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/kCgPA-NWSTA)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kCgPA-NWSTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/kCgPA-NWSTA/hqdefault.jpg" width="3840" height="2160"/>](https://www.youtube.com/embed/kCgPA-NWSTA)
