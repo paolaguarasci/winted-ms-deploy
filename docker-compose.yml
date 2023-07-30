@@ -1,4 +1,6 @@
 version: '3.9'
 include:
-  - web/docker-compose.yml
-  - be/docker-compose.yml
+   - path: web/docker-compose.yml
+     project_directory: web
+   - path: be/docker-compose.yml
+     project_directory: be
