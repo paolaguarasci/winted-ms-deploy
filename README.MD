@@ -53,5 +53,7 @@ $ echo -n IyEvYmluL2Jhc2gKCmNvbnRhaW5lckxpc3Q9YHN1ZG8gZG9ja2VyIHBzIC1hIHwgZ3JlcC
 $ chmod +x ./cleanDocker.sh
 $ sudo ./cleanDocker.sh
 ```
+
 # Demo
-[<img src="https://img.youtube.com/vi/kCgPA-NWSTA/hqdefault.jpg" width="3840" height="2160"/>](https://www.youtube.com/embed/kCgPA-NWSTA)
+
+[<img src="https://img.youtube.com/vi/kCgPA-NWSTA/hqdefault.jpg" width="640" height="360"/>](https://www.youtube.com/embed/kCgPA-NWSTA)
