@@ -55,6 +55,6 @@ $ sudo ./cleanDocker.sh
 ```
 
 # Demo
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/embed/kCgPA-NWSTA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kCgPA-NWSTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
