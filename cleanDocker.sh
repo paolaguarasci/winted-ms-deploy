@@ -10,7 +10,7 @@ sudo docker image rm $imageList
 volumeList=`sudo docker volume ls | grep -v portainer | grep -v DRIVER | awk '{ print $2 }'`
 sudo docker volume rm $volumeList
 
-sudo docker network rm be_spring-cloud-network
+sudo docker network rm winted_ms_spring-cloud-network
 
 
 sudo docker system prune -af
