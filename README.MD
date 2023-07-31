@@ -56,4 +56,4 @@ $ sudo ./cleanDocker.sh
 
 # Demo
 
-[<img src="https://img.youtube.com/vi/kCgPA-NWSTA/hqdefault.jpg" width="640" height="360"/>](https://www.youtube.com/embed/kCgPA-NWSTA)
+[<img src="https://img.youtube.com/vi/LXkGCB3qidQ/hqdefault.jpg" width="640" height="360"/>](https://www.youtube.com/embed/LXkGCB3qidQ)

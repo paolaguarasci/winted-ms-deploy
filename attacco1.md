@@ -17,7 +17,3 @@ url=http%3A%2F%2Flocalhost%3A1234&
 response_mode=fragment&
 response_type=code&scope=openid
 ```
-
-# Demo
-
-Video demo [qui](https://videolink)
