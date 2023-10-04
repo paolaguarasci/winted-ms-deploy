@@ -13,14 +13,15 @@ url=http%3A%2F%2Flocalhost%3A1234&
 response_mode=fragment&
 response_type=code
 ```
+cf5a0763-316b-4b81-a15c-04b297ee92fa
 
-- cattura e conservazione del `session_state` perché servirà nei passaggi successivi. Questo parametro rappresenta il `session_id` dell'utente vittima, in questo caso l'utente `paola`. Si noti che la parte centrale del parametro `code` coincide con il `session_state` stesso. 
+- cattura e conservazione del `session_state` perché servirà nei passaggi successivi. Questo parametro rappresenta il `session_id` dell'utente vittima, in questo caso l'utente `paola`. Si noti che la parte centrale del parametro `code` coincide con il `session_state` stesso.
 
 ```shell
 GET /?state=0a1aeed9-19ae-4f77-b59b-5e7bfe9c5bf6&
-session_state=231fd8bc-2259-417b-9887-a4dcfb9c8f46&
+session_state=d9f88110-7cc6-4d6c-b678-e2c575e0c4bb&
 code=d310bb8c-883c-477c-bff3-5e33922a9169.
-231fd8bc-2259-417b-9887-a4dcfb9c8f46.
+d9f88110-7cc6-4d6c-b678-e2c575e0c4bb.
 f4e96ce3-fdb3-412d-8ab3-264dd456e096
 ```
 - si è effettuato il logout dell'utente `paola`
